@@ -5,7 +5,7 @@ This is App for Mocking Server response
 
 ![Alt Text](Images/AddNewJSON.gif)
 
-**Veing all JSONs**
+**Viewing all JSONs**
 
 ![Alt Text](Images/ViewJSONs.gif)
 
